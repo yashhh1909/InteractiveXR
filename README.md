@@ -51,11 +51,18 @@ Interactive-XR/
 │── README.md
 
  ## Deployment
+ 
  npm run build
+ 
 vercel deploy
 
 ## USE CASES
+
 Virtual simulations
+
 Educational XR experiences
+
 Browser-based 3D applications
+
 Interactive storytelling
+
